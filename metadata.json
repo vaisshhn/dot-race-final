@@ -1,0 +1,6 @@
+{
+  "name": "Crenova - Micro-Creator Discovery & Escrow",
+  "description": "India's premier micro-creator discovery and brand collaboration platform. Discover vetted creators across Indian cities by niche, low negative comment rates, and pay only for verified quality reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
