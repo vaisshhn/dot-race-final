@@ -1,8 +1,0 @@
-{
-  "name": "Remix Creova",
-  "description": "A premium marketplace connecting brands with high-performing micro-creators through intelligent search, advanced analytics, and seamless collaboration tools.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
